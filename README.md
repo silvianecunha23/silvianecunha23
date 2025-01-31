@@ -31,7 +31,7 @@
 ![LinuxMint](https://skillicons.dev/icons?i=mint)
 ![VSCode](https://skillicons.dev/icons?i=visualstudio)
 
-![Formação]([https://icons8.com/icon/XVdLRePLrKeo/graduation-cap](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png))
+![Formação]([https://icons8.com/icon/XVdLRePLrKeo/graduation-cap](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
 
 
 
