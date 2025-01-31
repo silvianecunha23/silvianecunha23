@@ -7,15 +7,15 @@
 
 <h2> 📚 <strong> Formação acadêmica </strong> </h2>
 
-<h3> <strong> Graduação </strong> </h3>
+<h3> ➡️ <strong> Graduação </strong> </h3>
 <p> Universidade Federal de Rondônia - UNIR/RO </p>
 <p> Bacharel em Informática </p>
 
-<h3> <strong> Mestrado </strong> </h3>
+<h3> ➡️ <strong> Mestrado </strong> </h3>
 <p> Instituto De Ciências Matemáticas e de Computação ICMC/USP </p>
 <p> Ciências da Computação e Matemática Computacional </p>
 
-<h3> <strong> Doutorado - em andamento </strong> </h3>
+<h3> ➡️ <strong> Doutorado - em andamento </strong> </h3>
 <p> Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </p>
 <p> Inteligência Artificial aplicado à Agronomia </p>
 <p> Orientadora: Patricia A. Alves Marques </p>
