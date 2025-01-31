@@ -16,10 +16,9 @@
 <p> Ciências da Computação e Matemática Computacional </p>
 
 <h3> ➡️ <strong> Doutorado - em andamento </strong> </h3>
-<p> Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </p>
-<p> Inteligência Artificial aplicado à Agronomia </p>
-<p> Orientadora: Patricia A. Alves Marques </p>
-<p> <a href="https://bv.fapesp.br/pt/pesquisador/50214/patricia-angelica-alves-marques/" target="_blank">Patricia A. Alves Marques</a> </p>
+<p> <a href="https://www.esalq.usp.br/" target="_blank">Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </a> </p>
+<p> PPGESA/C4IA: estudo de Inteligência Artificial aplicado à agronomia </p>
+<p> Orientadora: <a href="https://bv.fapesp.br/pt/pesquisador/50214/patricia-angelica-alves-marques/" target="_blank">Patricia A. Alves Marques </a> </p>
 
 <hr>
 
