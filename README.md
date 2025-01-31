@@ -19,6 +19,7 @@
 <p> <a href="https://www.esalq.usp.br/" target="_blank">Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP </a> </p>
 <p> PPGESA/C4IA: estudo de Inteligência Artificial aplicado à agronomia </p>
 <p> Orientadora: <a href="https://bv.fapesp.br/pt/pesquisador/50214/patricia-angelica-alves-marques/" target="_blank">Patricia A. Alves Marques </a> </p>
+<p> Coorientador: <a href="https://bv.fapesp.br/pt/pesquisador/8058/carlos-dias-maciel/">Carlos D. Maciel </a> </p>
 
 <hr>
 
