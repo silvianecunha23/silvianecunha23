@@ -9,15 +9,16 @@
 
 <h3> ➡️ <strong> Graduação </strong> </h3>
 <p> <a href="https://www.unir.br/homepage">Universidade Federal de Rondônia - UNIR/RO </a> </p>
-<p> Bacharel em Informática </p>
+<p> Bacharela em Informática </p>
 
 <h3> ➡️ <strong> Mestrado </strong> </h3>
 <p> <a href="https://www.icmc.usp.br/">Instituto De Ciências Matemáticas e de Computação ICMC/USP </a> </p>
-<p> Ciências da Computação e Matemática Computacional </p>
+<p> Mestra em Ciências </p> 
+<p> Área: Ciências de Computação e Matemática Computacional </p>
 
 <h3> ➡️ <strong> Doutorado - em andamento </strong> </h3>
 <p> <a href="https://www.esalq.usp.br/" target="_blank">Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP </a> </p>
-<p> PPGESA/C4IA: estudo de Inteligência Artificial aplicado à agronomia </p>
+<p> PPGESA/C4IA: estudo de Inteligência Artificial aplicado à Agronomia </p>
 <p> Orientadora: <a href="https://bv.fapesp.br/pt/pesquisador/50214/patricia-angelica-alves-marques/" target="_blank">Patricia A. Alves Marques </a> </p>
 <p> Coorientador: <a href="https://bv.fapesp.br/pt/pesquisador/8058/carlos-dias-maciel/">Carlos D. Maciel </a> </p>
 
