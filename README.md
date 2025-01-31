@@ -10,7 +10,7 @@
 <h3> ➡️ <strong> Graduação </strong> </h3>
 <p> <a href="https://www.unir.br/homepage">Universidade Federal de Rondônia - UNIR/RO </a> </p>
 <p> Bacharela em Informática </p>
-<p> Área: Visão Computacional </p>
+<p> Área: Visão Computacional e Redes Neurais</p>
 
 <h3> ➡️ <strong> Mestrado </strong> </h3>
 <p> <a href="https://www.icmc.usp.br/">Instituto de Ciências Matemáticas e de Computação ICMC/USP </a> </p>
