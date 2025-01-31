@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2> 💻 <strong> Tools I know </strong>strong> </h2>
+<h2> 💻 <strong> Tools I know </strong> </h2>
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
