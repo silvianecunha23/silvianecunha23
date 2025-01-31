@@ -10,9 +10,10 @@
 <h3> ➡️ <strong> Graduação </strong> </h3>
 <p> <a href="https://www.unir.br/homepage">Universidade Federal de Rondônia - UNIR/RO </a> </p>
 <p> Bacharela em Informática </p>
+<p> Área: Visão Computacional </p>
 
 <h3> ➡️ <strong> Mestrado </strong> </h3>
-<p> <a href="https://www.icmc.usp.br/">Instituto De Ciências Matemáticas e de Computação ICMC/USP </a> </p>
+<p> <a href="https://www.icmc.usp.br/">Instituto de Ciências Matemáticas e de Computação ICMC/USP </a> </p>
 <p> Mestra em Ciências </p> 
 <p> Área: Ciências de Computação e Matemática Computacional </p>
 
