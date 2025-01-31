@@ -5,21 +5,25 @@
 
 <hr>
 
-<h2> 📚 Formação acadêmica </h2>
-### Graduação:
+<h2> 📚 <strong> Formação acadêmica </strong> </h2>
+
+<h3> <strong> Graduação </strong> </h3>
 <p> Universidade Federal de Rondônia - UNIR/RO </p>
 <p> Bacharel em Informática </p>
 
-### Mestrado:
+<h3> <strong> Mestrado </strong> </h3>
 <p> Instituto De Ciências Matemáticas e de Computação ICMC/USP </p>
 <p> Ciências da Computação e Matemática Computacional </p>
 
-### Doutorado - em andamento:
+<h3> <strong> Doutorado - em andamento </strong> </h3>
 <p> Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </p>
 <p> Inteligência Artificial aplicado à Agronomia </p>
 <p> Orientadora: Patricia A. Alves Marques </p>
 
-##💻 Tools I know 
+<hr>
+
+<h2> 💻 <strong> Tools I know </strong>strong> </h2>
+
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
@@ -28,7 +32,6 @@
 ![MATLAB](https://skillicons.dev/icons?i=matlab)
 ![Python](https://skillicons.dev/icons?i=py)
 ![Java](https://skillicons.dev/icons?i=java)
-
 ![Latex](https://skillicons.dev/icons?i=latex)
 ![LinuxMint](https://skillicons.dev/icons?i=mint)
 ![VSCode](https://skillicons.dev/icons?i=visualstudio)
