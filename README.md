@@ -6,7 +6,7 @@
 <hr>
 
 ## Formação acadêmica
-<p> <strong> 1. Graduação </strong>strong> </p> 
+<p> <strong> 1. Graduação </strong> </p> 
 <p> Universidade Federal de Rondônia </p>
 <p> Bacharel em Informática </p>
 <p> Título do TCC: Estudo e implementação de mapas auto-organizáveis de Kohonen para a segmentação de imagens</p>
