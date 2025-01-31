@@ -1,6 +1,6 @@
 <img style = "margin-top: 50px" align="left" width="50px" src="https://imagens.usp.br/wp-content/uploads/ESALQ.jpg">
 
-# :octocat: Olá, seja bem vindo (a)!
+<h1> :octocat: Olá, seja bem vindo (a)! </h1>
 ## Meu nome é Ângela, e este é meu repositório de dados de pesquisa e cursos relacionados.
 
 ##📚 Formação acadêmica
