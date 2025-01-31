@@ -19,6 +19,7 @@
 <p> Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </p>
 <p> Inteligência Artificial aplicado à Agronomia </p>
 <p> Orientadora: Patricia A. Alves Marques </p>
+<p> <a href="[https://www.freecodecamp.org/](https://bv.fapesp.br/pt/pesquisador/50214/patricia-angelica-alves-marques/)" target="_blank">Patricia A. Alves Marques</a> </p>
 
 <hr>
 
