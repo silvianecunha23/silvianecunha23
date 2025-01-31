@@ -19,6 +19,6 @@
 ## Tools I know 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask)](https://skillicons.dev)" />
+    <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask)]"/>
   </a>
 </p>
