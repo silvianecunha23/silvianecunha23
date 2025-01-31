@@ -1,9 +1,11 @@
 <img style = "margin-top: 50px" align="left" width="50px" src="https://imagens.usp.br/wp-content/uploads/ESALQ.jpg">
 
-<h1> :octocat: Olá, seja bem vindo (a)! </h1>
-## Meu nome é Ângela, e este é meu repositório de dados de pesquisa e cursos relacionados.
+<h1> Olá, seja bem vindo (a)! :octocat: </h1>
+<h3> Meu nome é Ângela, e este é meu repositório de dados de pesquisa e cursos relacionados. </h3>
 
-##📚 Formação acadêmica
+<hr>
+
+<h2> 📚 Formação acadêmica </h2>
 ### Graduação:
 <p> Universidade Federal de Rondônia - UNIR/RO </p>
 <p> Bacharel em Informática </p>
