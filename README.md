@@ -22,3 +22,9 @@
     <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask)]"/>
   </a>
 </p>
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![JavaScript](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=bootstrap)
+![JavaScript](https://skillicons.dev/icons?i=flask)
