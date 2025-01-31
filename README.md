@@ -17,14 +17,8 @@
 <p> Inteligência Artificial aplicado à Agronomia </p>
 
 ## Tools I know 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask)]"/>
-  </a>
-</p>
-
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Flask](https://skillicons.dev/icons?i=flask)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![JavaScript](https://skillicons.dev/icons?i=html)
-![JavaScript](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=bootstrap)
-![JavaScript](https://skillicons.dev/icons?i=flask)
