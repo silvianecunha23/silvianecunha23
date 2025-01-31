@@ -3,16 +3,16 @@
 # Olá, seja bem vindo (a)! 👋
 ## Meu nome é Ângela, e este é meu repositório de dados de pesquisa e cursos relacionados.
 
-## Formação acadêmica
+## 📚 Formação acadêmica
 ### Graduação:
 <p> Universidade Federal de Rondônia - UNIR/RO </p>
 <p> Bacharel em Informática </p>
 
-### Mestrado:
+### 📚 Mestrado:
 <p> Instituto De Ciências Matemáticas e de Computação ICMC/USP </p>
 <p> Ciências da Computação e Matemática Computacional </p>
 
-### Doutorado - em andamento:
+### 🎓 Doutorado - em andamento:
 <p> Escola Superior de Agricultura "Luiz de Queiroz - ESALQ/USP </p>
 <p> Inteligência Artificial aplicado à Agronomia </p>
 <p> Orientadora: Patricia A. Alves Marques </p>
@@ -31,7 +31,6 @@
 ![LinuxMint](https://skillicons.dev/icons?i=mint)
 ![VSCode](https://skillicons.dev/icons?i=visualstudio)
 
-![Formação](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
 
 
 
